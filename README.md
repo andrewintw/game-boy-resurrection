@@ -11,6 +11,11 @@
 * [LSDj ROMs images](https://www.littlesounddj.com/lsd/latest/rom_images/)
 * [BGB -- a GameBoy emulator](https://bgb.bircd.org/)
 
+## 改裝套件
+
+* [Backlight Kit](https://www.deadpanrobot.co.uk/green-backlight-kit-by-game-boy-mods-uk-dmg-lcd-gbmuk-green)
+* [Bivert Mod](https://www.deadpanrobot.co.uk/bivert-mod-custom-circuit-board-for-nintendo-game-boy-bivert-board-deadpan)
+
 ## 卡匣燒錄器
 
 * [GBxCart RW](https://www.gbxcart.com/)
