@@ -21,6 +21,7 @@
 * [GBxCart RW](https://www.gbxcart.com/)
   * [GBxCart RW Manual](https://flashcartdb.com/index.php/GBxCart_RW_Manual)
   * [GBxCart RW – Flash Cart Support](https://www.insidegadgets.com/projects/gbxcart-rw-flash-cart-support/)
+  * [video by GamingMonsters](https://www.youtube.com/watch?v=lu4MN-9X43Q)
 
 ## 卡匣資訊
 
