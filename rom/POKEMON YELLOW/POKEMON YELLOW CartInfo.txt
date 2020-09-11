@@ -1,0 +1,5 @@
+Game title: POKEMON YELLOW
+MBC type: MBC5+RAM+BATTERY
+ROM size: 2MByte (128 banks)
+RAM size: 32 KBytes (4 banks of 8Kbytes)
+Header Checksum: OK
