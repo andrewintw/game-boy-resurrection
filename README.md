@@ -30,6 +30,10 @@
 
 ## 技術文件
 
+* [Simple Bytebeat GB ROM](https://things.bleu255.com/moddingfridays/Simple_Bytebeat_GB_ROM)
+  * [GameBoy Developers Kit (GBDK)](http://gbdk.sourceforge.net/)
 * [Game Boy technical reference (Pan Docs)](https://gbdev.io/pandocs/)
 * [Jeff Frohwein's GameBoy Tech Page](http://www.devrs.com/gb/files/hardware.html)
 * [GameBoy cartridge flasher](https://blog.lapingames.com/gameboy-cartridge-flasher/)
+* [sound chip list by vgmrips](https://vgmrips.net/packs/chips)
+
