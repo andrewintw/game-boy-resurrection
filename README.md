@@ -5,6 +5,7 @@
 * [《復古媒體與舊硬體重製：Game Boy合成器工作坊》by Modding Friday](https://things.bleu255.com/moddingfridays/Game_Boy_Resurrection)
 * [焊接初學者指南](https://andrewintw.github.io/soldering-guide-for-beginners/)
 * [學習筆記](https://hackmd.io/d2odcjDdQmamKqWnFc7_gg)
+* [GBxCart_RW 簡易操作手冊](GBxCartRW.md)
 
 ## 軟體工具
 
